@@ -55,7 +55,7 @@ Explore some of the projects featured in this portfolio:
 | Project | Description | Live Link | Source Code |
 |--------|-------------|-----------|-------------|
 | **Music App** | A full-stack Music platform with authentication | [Live](https://spotify2-0-opal.vercel.app/) | [GitHub](https://github.com/Abhiishek-Choudhary/spotify2.0) |
-| **Chat App** | A simple chat application using MERN Stack + Web Sockets(socket.io) | [Live](https://chat-app-ten-alpha-25.vercel.app/) | [GitHub](https://github.com/Abhiishek-Choudhary /chat-app) |
+| **Chat App** | A simple chat application using MERN Stack + Web Sockets(socket.io) | [Live](https://chat-app-ten-alpha-25.vercel.app/) | [GitHub](https://github.com/Abhiishek-Choudhary/chat-app) |
 | **Movie App** | Next-based movie application with routers and SSR  | [Live](https://hianime7.netlify.app/) | [GitHub](https://github.com/Abhiishek-Choudhary/Hianime) |
 
 > 📝 _More projects available on the site!_
