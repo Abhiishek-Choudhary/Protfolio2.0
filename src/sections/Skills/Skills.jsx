@@ -19,7 +19,6 @@ function Skills() {
            <SkillList src={checkMarkIcon} skill="NEXT" />
            <SkillList src={checkMarkIcon} skill="REDUX" />
            <SkillList src={checkMarkIcon} skill="TYPESCRIPT" />
-           <SkillList src={checkMarkIcon} skill="PAYMENT GATEWAY" />
            <SkillList src={checkMarkIcon} skill="ZOD" />
         </div>
         <hr />
