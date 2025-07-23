@@ -53,8 +53,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          I am Abhishek Choudhary a full stack web developer from raipur
-           and this is my protfolio.
+          I am Abhishek Choudhary a Software Developer from Raipur(Chhattisgarh)
+           and this is my portfolio.
         </p>
         <a href={resume} download>
           <button className="hover">Resume</button>
